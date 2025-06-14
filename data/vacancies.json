@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Няня для мальчика 1,5 лет",
+        "url": "https://hh.ru/vacancy/121614109",
+        "salary": "200000 - 230000 руб.",
+        "description": "Важно чтобы няня была опрятная, энергичная , трудолюбивая."
+    },
+    {
+        "name": "Специалист по работе с данными",
+        "url": "https://hh.ru/vacancy/121506147",
+        "salary": "от 625000 руб.",
+        "description": "Что нужно от тебя: - высшее образование в области статистики, социологии, менеджмент, экономики или смежных дисциплин. - знание основ статистики и аналитики. - "
+    },
+    {
+        "name": "UX/UI дизайнер (Junior)",
+        "url": "https://hh.ru/vacancy/121593370",
+        "salary": 0,
+        "description": "Опыт работы 1-2 года в агентстве/студии. Знание расширенного функционала инструментов Figma, знание продуктов Adobe. Знание гайдлайнов платформ (например..."
+    },
+    {
+        "name": "Бизнес ассистент к собственнику бизнеса (в Лондон)/Business Assistant to UHNWI in London",
+        "url": "https://hh.ru/vacancy/121574669",
+        "salary": 0,
+        "description": "Ability to multitask with ease and prioritize work as needed. Highly organized with excellent time management skills. Excellent interpersonal communication. "
+    },
+    {
+        "name": "Sales Manager, Italy",
+        "url": "https://hh.ru/vacancy/121077780",
+        "salary": "от 2000 руб.",
+        "description": "Levenhuk — оптические устройства для пользователей и любителей. Не менее 3-х лет опыта на позиции менеджера по продажам (желателен опыт..."
+    },
+    {
+        "name": "Менеджер проектов Market Research (количественные исследования)",
+        "url": "https://hh.ru/vacancy/120882399",
+        "salary": 0,
+        "description": "Высшее образование (предпочтительно социология, маркетинг, психология, менеджмент, экономика). Опыт самостоятельного проведения проектов по количественным исследованиям. Понимание/знание методов количественных маркетинговых..."
+    },
+    {
+        "name": "Marketing Specialist Acqua di Parma/LOEWE",
+        "url": "https://hh.ru/vacancy/121603506",
+        "salary": 0,
+        "description": ""
+    },
+    {
+        "name": "Backend-разработчик (Strong Middle)",
+        "url": "https://hh.ru/vacancy/121544036",
+        "salary": "от 5000000 руб.",
+        "description": "Опыт работы от 1 года в коммерческих проектах. Хорошие знания Python - низкоуровневый, Socket, Websocket, Linux OS, shell, DevOps skill. "
+    },
+    {
+        "name": "Interpreter/Translator/Assistant",
+        "url": "https://hh.ru/vacancy/121212036",
+        "salary": "85000 - 85000 руб.",
+        "description": "Proven experience as an administrative assistant or office admin assistant. Knowledge of office management systems and procedures. Working knowledge of..."
+    },
+    {
+        "name": "Mechanical Design Engineer",
+        "url": "https://hh.ru/vacancy/120835684",
+        "salary": "200000 - 270000 руб.",
+        "description": "Образование: высшее техническое (машиностроение, робототехника или смежные дисциплины). Опыт работы: от 2 лет в одной или нескольких смежных дисциплинах (машиностроение..."
+    },
+    {
+        "name": "Web-программист - стажер",
+        "url": "https://hh.ru/vacancy/118711736",
+        "salary": "100000 - 100000 руб.",
+        "description": "Carfast- Первый онлайн авто аукцион в Казахстане. Доброжелательный и целеустремленный командный игрок. Принимаете верные решения в критических ситуациях. "
+    },
+    {
+        "name": "Backend Developer (Python) - Junior Level",
+        "url": "https://hh.ru/vacancy/121547831",
+        "salary": 0,
+        "description": "Опыт работы с FastAPI: понимание принципов его работы и построения API. Опыт работы с другими <highlighttext>Python</highlighttext>-фреймворками (Flask/Django) будет..."
+    },
+    {
+        "name": "Инженер по програмировании в Японии (ЯПОНИЯ)",
+        "url": "https://hh.ru/vacancy/121462016",
+        "salary": "от 1500 руб.",
+        "description": "Базовые знания <highlighttext>Python</highlighttext>, C++, JavaScript, Java. Владение японским языком на уровне JLPT N3 и выше (N4 — по согласованию). "
+    },
+    {
+        "name": "Программист, Python-разработчик",
+        "url": "https://hh.ru/vacancy/121620174",
+        "salary": 0,
+        "description": "Опыт разработки ботов (на <highlighttext>Python</highlighttext> или другом языке). - Знание API Telegram, WhatsApp Business API или Discord.js. - Навыки внедрения AI. - "
+    },
+    {
+        "name": "Strong Junior Backend разработчик",
+        "url": "https://hh.ru/vacancy/121548246",
+        "salary": "300000 - 500000 руб.",
+        "description": "Отличное знание <highlighttext>Python</highlighttext>. Опыт работы с Django и Django REST Framework. Уверенное владение GitLab, умение настраивать CI/CD пайплайны. "
+    },
+    {
+        "name": "Web-разработчик",
+        "url": "https://hh.ru/vacancy/121045974",
+        "salary": "150000 - 300000 руб.",
+        "description": "Начальные знания backend-технологий (например: Node.js, PHP или <highlighttext>Python</highlighttext>). Понимание основ работы с базами данных (SQL или MongoDB). "
+    },
+    {
+        "name": "DevOps инженер",
+        "url": "https://hh.ru/vacancy/121603923",
+        "salary": 0,
+        "description": "Навыки работы с git, CI/CD, Gitlab Actions (написание скриптов, отладка, мониторинг). Знание Bash и <highlighttext>Python</highlighttext> для написания скриптов и..."
+    },
+    {
+        "name": "Python Developer",
+        "url": "https://hh.ru/vacancy/121595420",
+        "salary": "50000 - 100000 руб.",
+        "description": "Опыт в бекенд разработке не менее года. Знание языка программирования <highlighttext>Python</highlighttext>. Знание фреймворка Django. Знание и опыт практического использования PostgreSQL. "
+    },
+    {
+        "name": "Manual game tester",
+        "url": "https://hh.ru/vacancy/121509074",
+        "salary": "1500 - 1500 руб.",
+        "description": "Опыт тестирования web-приложений. - Базовое владение языком программирования (наш стек <highlighttext>Python</highlighttext> / Typescript). - Базовые знания html/css. - Знание терминов протокола HTTP..."
+    },
+    {
+        "name": "Стажер-разработчик Python",
+        "url": "https://hh.ru/vacancy/121522362",
+        "salary": "45000 - 45000 руб.",
+        "description": "Как всё будет: → Апгрейд знаний по <highlighttext>Python</highlighttext> и актуальному стеку. → Подключаешься к боевым задачам.  Хардкорная практика с нуля.  "
+    }
+]
